@@ -5,6 +5,9 @@
         <title>Riadiace štruktúry</title>
     </head>
     <body>
+        <header>
+            <h2>Vodicak</h2>
+        </header>
         
         <form action="main.php" method="POST">
             <label for="meno"></label>
@@ -18,6 +21,6 @@
             
             <input type="submit" value="Odosli">
         </form>
-        
+
     </body>
 </html>
